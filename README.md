@@ -90,12 +90,7 @@ This project demonstrates how machine learning can be applied to:
 
 ## 👤 Author
 
-#### Soundharya Sundaram Iyer
-#### Aspiring Data Scientist / Passionate about Machine Learning 
+#### Harrish P
+#### Data Science & Machine Learning Enthusiast
 
-### 📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub.
-LinkedIn : https://www.linkedin.com/in/soundharyaiyer09
-
-Github : https://github.com/Soundharya09
-
-### If you like this project, feel free to ⭐ star it!!!!!
+GitHub: https://github.com/harrish243
